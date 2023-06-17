@@ -17,4 +17,4 @@ The hash salt in this case will be : $y$j9T$OAP.Q614fjSxrVbi7hFTX1
 
 The hash salt is then compared to the full hash and when the decrypted hash matches the word in the password list provided in this case 'password.txt' the password is finally cracked.
 
-python code for password cracking: [passcracker.py]
+python code for password cracking: [[passcracker.py]](https://github.com/Shivam7679/Projects/blob/926ce2a6464718e56bc8a24ea48b915e140b504f/passcracker.py)https://github.com/Shivam7679/Projects/blob/926ce2a6464718e56bc8a24ea48b915e140b504f/passcracker.py
