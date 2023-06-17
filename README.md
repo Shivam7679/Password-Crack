@@ -19,5 +19,5 @@ Full hash:```` $y$j9T$OAP.Q614fjSxrVbi7hFTX1$XFfcJdQX6/MYYJzx5fiZ4JgSJ519aXkjeiI
 The hash salt in this case will be : ````$y$j9T$OAP.Q614fjSxrVbi7hFTX1````  
 *till the second $ symbol is referred to as hash salt which includes the hashing technique/algorithm
 
-The hash salt is then compared to the full hash and when the decrypted hash matches the word in the password list provided in this case 'password.txt' the password is finally cracked.
+The hash salt is then compared to the full hash and when the decrypted hash matches the word in the password list provided in this case ['password.txt'](https://github.com/Shivam7679/Projects/blob/6fbc093903bd792636c5a00803e7e6ca71897c27/password.txt) the password is finally cracked.
 
