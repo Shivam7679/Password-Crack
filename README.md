@@ -2,11 +2,14 @@
 Password Cracking:
 
 python code for password cracking: [passcracker.py](https://github.com/Shivam7679/Projects/blob/926ce2a6464718e56bc8a24ea48b915e140b504f/passcracker.py)
+
 To understand this well we can refer to the description below:
 
 In Linux to find hash salt and hast you can refer to the commands below:
 
+```
 $sudo cat /etc/shadow
+```
 
 *Note: hash salt is referred to the random data generated to add to combine with the original password in order to make the hash more strong
 
