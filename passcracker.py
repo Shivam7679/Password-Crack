@@ -9,4 +9,4 @@ for word in f.readlines():
         print("Password: ", word)
         break                                #terminates when the password matches the decrypted hash
     else:
-        print("Searching..")
+        print("Searching..") 
