@@ -4,7 +4,7 @@ Python code for password cracking: [passcracker.py](https://github.com/Shivam767
 
 To understand this well we can refer to the description below:
 
-In Linux to find hash salt and hast you can refer to the commands below:
+In Linux to find hash salt and hash you can refer to the commands below:
 
 ```
 $sudo cat /etc/shadow
