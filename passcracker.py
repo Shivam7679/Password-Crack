@@ -1,4 +1,4 @@
-import crypt                                #importing the crypt lybrary
+import crypt                                #importing the crypt library
 hash_salt= input("Enter hash salt: ")       #user inputs the hash salt
 full_hash= input("Enter full hash: ")       #user inputs the full hashed passcode
 f = open("password.txt", "r")               #reffers to a file 'password.txt' which contains various nuber of sample passwords
